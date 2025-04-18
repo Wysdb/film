@@ -17,27 +17,27 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    heimuer: {
+    heimuer1: {
         api: 'https://json02.heimuer.xyz/api.php/provide/vod/?ac=list',
         name: '黑木耳1',
         detail: 'https://heimuer.tv'
     },
-    heimuer: {
+    heimuer2: {
         api: 'https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list',
         name: '黑木耳2',
         detail: 'https://heimuer.tv'
     },
-    heimuer: {
+    heimuer3: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod/?ac=list',
         name: '黑木耳3',
         detail: 'https://heimuer.tv'
     },
-    heimuer: {
+    heimuer4: {
         api: 'https://json02.heimuer.xyz/api.php/provide/vod/?ac=list',
         name: '黑木耳4',
         detail: 'https://heimuer.tv'
     },
-    heimuer: {
+    heimuer5: {
         api: 'https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list',
         name: '黑木耳5',
         detail: 'https://heimuer.tv'
