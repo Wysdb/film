@@ -7,9 +7,8 @@ const MAX_HISTORY_ITEMS = 5;
 
 // 网站信息配置
 const SITE_CONFIG = {
-    // 旧网址 “https://libretv.is-an.org”
     name: 'LibreTV',
-    url: 'https://movies.chatbrief.dpdns.org',
+    url: 'https://https://libretv.is-an.org',
     description: '免费在线视频搜索与观看平台',
     logo: 'https://images.icon-icons.com/38/PNG/512/retrotv_5520.png',
     version: '1.0.0'
@@ -17,31 +16,6 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    heimuer1: {
-        api: 'https://json02.heimuer.xyz/api.php/provide/vod/?ac=list',
-        name: '黑木耳1',
-        detail: 'https://heimuer.tv'
-    },
-    heimuer2: {
-        api: 'https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list',
-        name: '黑木耳2',
-        detail: 'https://heimuer.tv'
-    },
-    heimuer3: {
-        api: 'https://json.heimuer.xyz/api.php/provide/vod/?ac=list',
-        name: '黑木耳3',
-        detail: 'https://heimuer.tv'
-    },
-    heimuer4: {
-        api: 'https://json02.heimuer.xyz/api.php/provide/vod/?ac=list',
-        name: '黑木耳4',
-        detail: 'https://heimuer.tv'
-    },
-    heimuer5: {
-        api: 'https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list',
-        name: '黑木耳5',
-        detail: 'https://heimuer.tv'
-    },
     heimuer: {
         api: 'https://json.heimuer.xyz',
         name: '黑木耳',
